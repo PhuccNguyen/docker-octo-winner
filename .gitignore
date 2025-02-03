@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Java
+target/
+
+# Logs and Temporary Files
+*.log
+logs/
+*.tmp
+*.temp
+
+# Environment Files
+.env
+.env.local
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Build Artifacts
+build/
+dist/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
